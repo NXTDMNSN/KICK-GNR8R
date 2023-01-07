@@ -36,17 +36,19 @@ Input your CHECKPOINT file that you created into [KICK_GNR8R_MAIN.py]
 ---
 ### GENERATE RANDOM KICKS
  
-Select desired quantity of samples to generate
-Select appropriate sampler steps for the generator
-Run the GNR8R Cell to generate samples
-- R3GENER8R -
-LAYER & MIX
+- Select desired quantity of samples to generate
+- Select appropriate sampler steps for the generator
+- Run the GNR8R Cell to generate samples
+
+
+## R3GENER8R
+### LAYER & MIX
 Record a file, enter the path to an audio file you want to regenerate, or upload a file when prompted
-INTERPOL8R
+### INTERPOL8R
 Enter the paths to two audio files you want to interpolate between, or upload them when prompted
 Make sure the "skip_for_run_all" checkbox is unchecked
 Run the cell under the "Interpolate between sounds" header
-STYLE TRANSFER
+### STYLE TRANSFER
 Enter a path to save your audio recordings
 Enter the number of audio recordings you want to combine into one
 Run the cell under the "Regenerate your own sound from the recording" header
