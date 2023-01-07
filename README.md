@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[(https://colab.research.google.com/github/NXTDMNSN/KICK-GNR8R/blob/main/KICK_GNR8R_MAIN.ipynb#scrollTo=-ITvsXU6hCAx]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NXTDMNSN/KICK-GNR8R/blob/main/KICK_GNR8R_MAIN.ipynb]
 
 
 # KICK-GNR8R
