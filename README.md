@@ -33,7 +33,7 @@ Input your CHECKPOINT file that you created into [KICK_GNR8R_MAIN.py]
 - INTERPOL8R
 > Interpolation between 2 audio files to blend them in a specified number of steps
 
-- UNDER DEVELOPMENT: PREPROCESSOR
+- UNDER DEVELOPMENT: PROS-X
 > Preprocess your audioflaes and standardize them to use any kind of file with TRaiNR
 
 ---
