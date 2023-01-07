@@ -19,25 +19,6 @@ Input your CHECKPOINT file that you created into [KICK_GNR8R_MAIN.py]
 
 ---
 
-**Audio diffusion tools in this notebook**:
-
-- TRaiNER
-> Dataset Trainer
-
-- KICK GNR8R
->  Unconditional (random) Kick sample Generator
-
-- R3GNR8R
-> Audio Sample Regenerator / Style Transfer using 2 input Samples
-
-- INTERPOL8R
-> Interpolation between 2 audio files to blend them in a specified number of steps
-
-- UNDER DEVELOPMENT: PROS-X
-> Preprocess your audiofailes and standardize them to use any kind of file with TRaiNR
-
----
-
 # KICK-GNR8R INSTRUCTIONS 📖 ℹ
 
 ---
