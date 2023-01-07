@@ -1,5 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NXTDMNSN/KICK-GNR8R/blob/main/KICK_GNR8R_MAIN.ipynb]
 
+<a href="https://colab.research.google.com/github/NXTDMNSN/KICK-GNR8R/blob/main/KICK_GNR8R_MAIN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 # KICK-GNR8R
 **DIGITAL WARFARE** - ***DIGITALLY DISTORTED DATA DESIGNED TO DESTROY THE DANCE MUSIC INDUSTRY***
